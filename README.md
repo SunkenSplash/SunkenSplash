@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there!
 
-<!--
-**SunkenSplash/SunkenSplash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's William! I'm a student and amateur developer in Python and JavaScript.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly make bots for Discord and love to be a part of the amazing developer communities there!
+
+
+Feel free to add me on Discord (my username is SunkenSplashGaming#4953) or [join my development server](https://discord.gg/nSPQsNBR3V) to see some of the projects I'm working on!
+
+
+Open to collaborate, send me a DM on Discord!
+
+
+Hope you have an amazing day :)
