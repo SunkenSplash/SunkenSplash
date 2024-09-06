@@ -1,12 +1,12 @@
 ### Hello there!
 
-My name's William! I'm a student and amateur developer with experience in Python, JS, C++, Swift, and Java.
+My name's William! I'm an undegraduate student and amateur developer with app development experience for native iOS and Android and robotics experience.
 
 
-I make bots for Discord and I love to be a part of the amazing developer communities there. I'm also a programmer for the VEX Robotics Competition, team number is 229V, Ace Robotics!
+I used to make bots for Discord and I used to compete in the VEX Robotics Competition (team 229V).
 
 
-Feel free to add me on Discord (my username is SunkenSplash) or [join my development server](https://discord.gg/nSPQsNBR3V) to see some of the projects I'm working on!
+Feel free to add me on Discord (my username is SunkenSplash).
 
 
 Open to collaborate, send me a DM!
