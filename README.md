@@ -1,6 +1,6 @@
 ### Hello there!
 
-My name's William! I'm an undegraduate student and amateur developer with app development experience for native iOS and Android and robotics experience.
+My name's William! I'm an undergraduate student and amateur developer with app development experience for native iOS and Android and robotics experience.
 
 
 I used to make bots for Discord and I used to compete in the VEX Robotics Competition (team 229V).
